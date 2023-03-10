@@ -1,4 +1,4 @@
-# student's marsksheet
+# student's marksheet
 
 
 this is new repository
